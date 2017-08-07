@@ -1,0 +1,6 @@
+C:\Users\adanb\Desktop\devCodeCamp\adventurestory.cs\adventurestory.cs\bin\Debug\adventurestory.cs.exe.config
+C:\Users\adanb\Desktop\devCodeCamp\adventurestory.cs\adventurestory.cs\obj\Debug\adventurestory.cs.csprojResolveAssemblyReference.cache
+C:\Users\adanb\Desktop\devCodeCamp\adventurestory.cs\adventurestory.cs\bin\Debug\adventurestory.cs.exe
+C:\Users\adanb\Desktop\devCodeCamp\adventurestory.cs\adventurestory.cs\bin\Debug\adventurestory.cs.pdb
+C:\Users\adanb\Desktop\devCodeCamp\adventurestory.cs\adventurestory.cs\obj\Debug\adventurestory.cs.exe
+C:\Users\adanb\Desktop\devCodeCamp\adventurestory.cs\adventurestory.cs\obj\Debug\adventurestory.cs.pdb
